@@ -1,0 +1,127 @@
+<mxfile host="65bd71144e">
+    <diagram id="yN1HlttFmLEaGZwnF-sm" name="Página-1">
+        <mxGraphModel dx="1666" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="8" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="6" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF00FF;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="40" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="7" target="9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="a,b,c" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#004C99;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="9" target="11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="-b+-sqrtb**2-4(a*c/2(a))&lt;br&gt;d=b**2-4(a*c)" style="whiteSpace=wrap;html=1;fillColor=#FF00FF;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="350" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="11" target="13">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="580" y="520"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="16" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="11" target="15">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="240" y="520"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="a==0" style="rhombus;whiteSpace=wrap;html=1;fillColor=#004C99;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="480" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="13">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="380" y="880" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="580" y="880"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="No es un ecuación cuadratica" style="whiteSpace=wrap;html=1;fillColor=#FF00FF;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="580" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="15" target="17">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="380" y="600"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="15" target="19">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="80" y="600"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="d==0" style="rhombus;whiteSpace=wrap;html=1;fillColor=#004C99;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="560" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="17">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="220" y="880" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="380" y="880"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="Rta=(x1,x1)" style="whiteSpace=wrap;html=1;fillColor=#FF00FF;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="660" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="19" target="21">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="220" y="710"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="19" target="27">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-60" y="710"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" value="d&amp;gt;0" style="rhombus;whiteSpace=wrap;html=1;fillColor=#004C99;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="670" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="21" target="34">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Rta:(x1,x2)sqrt" style="whiteSpace=wrap;html=1;fillColor=#FF00FF;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="740" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="27">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="220" y="880" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-60" y="880"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="27" value="Rta=(x1,x2)cmath sqrt" style="whiteSpace=wrap;html=1;fillColor=#FF00FF;" vertex="1" parent="1">
+                    <mxGeometry x="-120" y="740" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="34" target="36">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Rta" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#004C99;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="960" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="FIN" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF00FF;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="1120" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
